@@ -1,0 +1,11 @@
+Model Information:
+* title:	Titanfall 2 Ronin
+* source:	https://sketchfab.com/3d-models/titanfall-2-ronin-c9702fee67a64af1b255302289001145
+* author:	Palurdas Arts (https://sketchfab.com/PalurdasArts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Titanfall 2 Ronin" (https://sketchfab.com/3d-models/titanfall-2-ronin-c9702fee67a64af1b255302289001145) by Palurdas Arts (https://sketchfab.com/PalurdasArts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
